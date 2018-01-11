@@ -3,6 +3,11 @@
 
 ![result](test_videos_output/solidYellowLeft.gif)
 
+## Note
+1. For writeup, please see writeup_report.md
+2. For output, please see jupyter notebook and output directories
+
+
 Overview
 ---
 
